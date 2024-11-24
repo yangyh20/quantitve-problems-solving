@@ -3,6 +3,10 @@
 Write code that can fetch the US CPI data and reports the last 4 quarters of inflation in the US.
 
 ### 1.Set up environment
+Install pandas using pip
+```
+pip install pandas
+```
 Install pandas-datareader using pip
 ```
 pip install pandas-datareader
